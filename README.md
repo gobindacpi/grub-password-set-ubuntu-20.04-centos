@@ -1,0 +1,1 @@
+# grub-password-set-ubuntu-20.04-centos
